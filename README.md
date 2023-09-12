@@ -19,11 +19,11 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About me</b>
 <br>
 
-- Currently a senior data scientist at PwC. I am an experienced Data Scientist with more than 10 years of work and study in data science, specialized in risk management
-- Previous worked for Tencent, providing end-to-end data science solutions for more than 1 billion customers
-- Hold both Master’s and Bachelor’s degrees in Statistics from Uppsala University in Sweden and Central University of Finance and Economics in China 
-- Excels in ETL, data mining, statistical analysis, machine learning/deep learning models development, model automation, strategies making, and dashboard design for visualization. 
-- Regular knowledge sharing with technical/non-technical audience. Likes explaining complex problems in simpler ways, such as using analogies and stories.
+Hi, Lizabeth here!
+
+- Currently a Senior Data Scientist at the AI & Data department of a top US consulting firm, previously a data engineer at a Tier 1 internet company in China
+- Main work areas include Healthcare, Fintech, AI & Enterprise solutions. Served world-renowned pharmaceutical companies, Silicon Valley tech giants, etc.
+- Currently focused on researching and developing GenAI related enterprise-level services, other tech stack includes Machine Learning/Deep Learning, NLP, Graph, AWS/Azure cloud, CICD delivery
 
 
 <br><br>
