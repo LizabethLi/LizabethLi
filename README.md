@@ -21,7 +21,7 @@
 
 Hi, Lizabeth here!
 
-- Currently a Senior Data Scientist at the AI & Data department of a top US consulting firm, previously a data engineer at a Tier 1 internet company in China
+- Previously worked as a Senior Data Scientist at the AI & Data department of a top US consulting firm and a data engineer at a Tier 1 internet company in China
 - Main work areas include Healthcare, Fintech, AI & Enterprise solutions. Served world-renowned pharmaceutical companies, Silicon Valley tech giants, etc.
 - Currently focused on researching and developing GenAI related enterprise-level services, other tech stack includes Machine Learning/Deep Learning, NLP, Graph, AWS/Azure cloud, CICD delivery
 
