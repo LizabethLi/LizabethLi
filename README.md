@@ -42,6 +42,7 @@ Hi, Lizabeth here!
 <p align="center">
 
 - **Speciality**:
+  
    ![Generative AI](https://img.shields.io/badge/Generative_AI%20-31A8FF.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
    ![Machine Learning](https://img.shields.io/badge/Machine_Learning%20-31A8FF.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
    ![NLP](https://img.shields.io/badge/NLP%20-31A8FF.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
