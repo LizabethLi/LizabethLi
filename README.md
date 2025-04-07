@@ -43,19 +43,19 @@ Hi, Lizabeth here!
 
 - **Speciality**:
   
-   ![Generative AI](https://img.shields.io/badge/Generative_AI%20-31A8FF.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
-   ![Machine Learning](https://img.shields.io/badge/Machine_Learning%20-31A8FF.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
-   ![NLP](https://img.shields.io/badge/NLP%20-31A8FF.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
-   ![Graph database and algorithms](https://img.shields.io/badge/Graph_database_and_algorithms%20-31A8FF.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
-   ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis%20-31A8FF.svg?style=for-the-badge&logo=aws&logoColor=white)
+   ![Generative AI](https://img.shields.io/badge/Generative_AI-4A90E2?style=for-the-badge&logoColor=white)
+   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4A90E2?style=for-the-badge&logoColor=white)
+   ![NLP](https://img.shields.io/badge/NLP-4A90E2?style=for-the-badge&logoColor=white)
+   ![Graph Database & Algorithms](https://img.shields.io/badge/Graph_Database_%26_Algorithms-4A90E2?style=for-the-badge&logoColor=white)
+   ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-4A90E2?style=for-the-badge&logoColor=white)
 
 <br>
 
 - **Languages**:
 
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Pyspark](https://img.shields.io/badge/Pyspark%20-%2300599C.svg?style=for-the-badge&logo=pyspark&logoColor=white)
-    ![SAS](https://img.shields.io/badge/SAS%20-%2300599C.svg?style=for-the-badge&logo=sas&logoColor=white)
+    ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+    ![SAS](https://img.shields.io/badge/SAS-007EC3?style=for-the-badge&logo=sas&logoColor=white)
     ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
@@ -64,10 +64,11 @@ Hi, Lizabeth here!
 - **Databases**:
 
     ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-    ![Other SQL](https://img.shields.io/badge/Other_SQL%20-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)
+    ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+    ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 
 
 <br>  
@@ -75,7 +76,7 @@ Hi, Lizabeth here!
 - **Cloud**:
 
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-   ![Tecent Cloud](https://img.shields.io/badge/Tecent_Cloud%20-%231572B6.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
+   ![Tencent Cloud](https://img.shields.io/badge/Tencent%20Cloud-0052D9?style=for-the-badge&logo=TencentCloud&logoColor=white)
 
 
 <br>
